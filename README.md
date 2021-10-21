@@ -16,7 +16,7 @@ Time Series Plotting for the USD/YEN Pair based on the Settle prices.
 
 ![](https://github.com/Aelrid/Time-Series-Analysis/blob/main/Resources/ARMA%20Result.PNG)
 
-###5 Day Return Forecast
+### 5 Day Return Forecast
 
 ![](https://github.com/Aelrid/Time-Series-Analysis/blob/main/Resources/ARMA%205%20Day%20Forecast.PNG)
 
@@ -26,18 +26,18 @@ Time Series Plotting for the USD/YEN Pair based on the Settle prices.
 
 ![](https://github.com/Aelrid/Time-Series-Analysis/blob/main/Resources/ARIMA%20Result.PNG)
 
-###5 Day Return Forecast
+### 5 Day Return Forecast
 
 ![](https://github.com/Aelrid/Time-Series-Analysis/blob/main/Resources/ARIMA%205%20Day%20forecast.PNG)
 
 
-##Volatility Forecasting Using GARCH
+## Volatility Forecasting Using GARCH
 
-###Results Summary
+### Results Summary
 
 ![](https://github.com/Aelrid/Time-Series-Analysis/blob/main/Resources/GARCH%20Result.PNG)
 
-###5 Day Forecast of Volatility
+### 5 Day Forecast of Volatility
 
 ![](https://github.com/Aelrid/Time-Series-Analysis/blob/main/Resources/GARCH%20Forecast.PNG)
 
