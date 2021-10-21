@@ -32,6 +32,7 @@ Time Series Plotting for the USD/YEN Pair based on the Settle prices.
 
 
 ##Volatility Forecasting Using GARCH
+
 ###Results Summary
 
 ![](https://github.com/Aelrid/Time-Series-Analysis/blob/main/Resources/GARCH%20Result.PNG)
